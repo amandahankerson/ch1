@@ -1,2 +1,2 @@
-# ch1
-phrasomatic
+# python practice project
+just learning
