@@ -1,4 +1,4 @@
-#experiemting with global and local variables
+#experimenting with global and local variables
 
 def drink_me(param):
     msg = "Drinking a " + param + " glass of water."
