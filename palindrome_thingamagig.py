@@ -1,3 +1,5 @@
+#a palindrome game
+
 characters = ["t", "a", "c", "o"]
 
 output= " "
